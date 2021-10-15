@@ -1,4 +1,5 @@
 package com.example.thread;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -9,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 public class LoginPanel extends AppCompatActivity {
     EditText user,pass;
     TextView text;
