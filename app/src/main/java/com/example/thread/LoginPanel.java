@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 public class LoginPanel extends AppCompatActivity {
     EditText user,pass;
     TextView text;
