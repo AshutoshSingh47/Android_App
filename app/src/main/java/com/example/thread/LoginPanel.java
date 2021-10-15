@@ -14,6 +14,7 @@ public class LoginPanel extends AppCompatActivity {
     TextView text;
     Button button;
     int count=5;
+
     @Override
     public void onCreate(Bundle savedInstanceView)
     {
