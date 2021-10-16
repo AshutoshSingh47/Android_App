@@ -14,6 +14,7 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
 
+
 public class MainActivity extends AppCompatActivity {
     Button button, button1,button2,button3;
     TextView text;
